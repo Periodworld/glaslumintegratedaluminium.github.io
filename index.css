@@ -59,10 +59,10 @@ hr{
 	font-size: 40px;
 }
 .local{
-	margin-right: 0px;
+	margin-right: 2px;
 	padding: 2px;
        font-size: 40px;
-	object-fit: contain;
+	object-fit: cover;
 	
 	
       }
