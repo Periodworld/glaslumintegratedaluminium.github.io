@@ -62,7 +62,7 @@ hr{
 	margin-right: 0px;
 	padding: 2px;
        font-size: 40px;
-	position: cover;
+	object-fit: contain;
 	
 	
       }
