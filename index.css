@@ -59,10 +59,9 @@ hr{
 	font-size: 40px;
 }
 .local{
-	padding: 2px;
-	margin: 0px;
-	display: flex;
-       font-size:40px;
+	display: grid;
+       font-size: 40px;
+	place-items: center;
 	
       }
 .always{
