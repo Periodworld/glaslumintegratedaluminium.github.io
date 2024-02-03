@@ -58,6 +58,10 @@ hr{
 	text-align: center;
 	font-size: 40px;
 }
+.local{
+	display: flex;
+       font-size:40px;
+      }
 .always{
 	font-size: bold;
 	color: red;
