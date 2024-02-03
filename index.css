@@ -61,7 +61,7 @@ hr{
 .local{
 	
        font-size: 40px;
-	place-items: center;
+	position: center;
 	
       }
 .always{
