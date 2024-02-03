@@ -61,6 +61,7 @@ hr{
 .local{
 	display: flex;
        font-size:40px;
+	justify-content: center;
       }
 .always{
 	font-size: bold;
