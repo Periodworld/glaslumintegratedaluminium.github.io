@@ -59,9 +59,11 @@ hr{
 	font-size: 40px;
 }
 .local{
-	
+	margin: 0px;
+	padding: 2px;
        font-size: 40px;
-	position: center;
+	position: cover;
+	
 	
       }
 .always{
