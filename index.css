@@ -59,12 +59,10 @@ hr{
 	font-size: 40px;
 }
 .local{
-	margin-right: 2px;
 	padding: 2px;
        font-size: 40px;
-	object-fit: cover;
-	
-	
+	margin-left: auto;
+	margin-right: auto;
       }
 .always{
 	font-size: bold;
