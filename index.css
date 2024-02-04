@@ -24,7 +24,7 @@
 	color: yellow;
 }
 
-img{
+.img{
 	size: 40px;
 	width: 400px;
 	height: 50vh;
@@ -32,7 +32,8 @@ img{
 	padding: 0;
 	grid-gap:0;
 	grid-column:0;
-	grid-column-end: 0; 
+	grid-column-end: 0;
+	display: flex;
 }
 
 .my-div{
@@ -45,6 +46,14 @@ img{
 	color: yellow;
 	margin: 0px;
 	padding: 2px;
+}
+@media screen and (max-width: 600px){
+	.my-div{
+	height: 40VH;
+	width: 180vh;
+	background-position: center;
+	background-size: cover;
+	}
 }
 hr{
 	background-color: blue;
