@@ -33,7 +33,6 @@
 	grid-gap:0;
 	grid-column:0;
 	grid-column-end: 0;
-	display: flex;
 }
 
 .my-div{
@@ -47,8 +46,9 @@
 	margin: 0px;
 	padding: 2px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 100%){
 	.my-div{
+	background-image: url("../images/download 19.jpeg");
 	height: 40VH;
 	width: 180vh;
 	background-position: center;
